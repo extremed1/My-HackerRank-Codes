@@ -1,5 +1,5 @@
 # Python
-The codes are separated by into folders based on their difficulty. 
+Codes are separated into folders based on their difficulty. 
 
 ## Way to execute the python codes
 * Double click on the files with the extenstion .py as the python files to execute them
