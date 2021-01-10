@@ -18,10 +18,10 @@ def total_amount(shoe_list, customer_size_price_list):
     return sum(l)
     
 X = int(input()) #number of shoes in store
-sizes = [int(i) for i in input().split()] #list of shoe sizes in store
+sizes = map(int,input().split()))
 N = int(input()) #number of customers
 
-d = list([[int(i)for i in input().split()] for i in range(N)])
+d = list(map(int,input().split())) for i in range(N)])
 
 total_amount(sizes,d)
 
