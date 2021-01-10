@@ -1,4 +1,4 @@
-```
+
 N,X = map(int,input().split())
 
 subjects = []
@@ -7,4 +7,4 @@ for i in range(X):
     
 for scores in zip(*subjects):
     print(sum(scores)/len(scores))
-```
+
