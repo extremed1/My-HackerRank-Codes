@@ -1,4 +1,0 @@
-input_string = input()
-
-# Print a string literal saying "Hello, World." 
-print('Hello, World.')
