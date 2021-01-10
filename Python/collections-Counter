@@ -24,4 +24,4 @@ N = int(input()) #number of customers
 d = list([[int(i)for i in input().split()] for i in range(N)])
 
 total_amount(sizes,d)
-```
+
