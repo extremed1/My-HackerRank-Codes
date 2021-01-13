@@ -17,3 +17,4 @@
 * [collections.Counter](https://www.hackerrank.com/challenges/collections-counter/problem)
 * [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem)
 * [Zipped!](https://www.hackerrank.com/challenges/zipped/problem)
+* [Set.discard(), .remove(), .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)
