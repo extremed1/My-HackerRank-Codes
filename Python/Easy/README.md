@@ -18,3 +18,6 @@
 * [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem)
 * [Zipped!](https://www.hackerrank.com/challenges/zipped/problem)
 * [Set.discard(), .remove(), .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)
+* [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem?h_r=profile)
+* [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem?h_r=profile)
+* [Set.add()](https://www.hackerrank.com/challenges/py-set-add/problem?h_r=profile)
